@@ -156,7 +156,7 @@ nav {
 }
 
 .nav__links a:hover {
-  color: var(--primary-color);
+  color: aqua;
 }
 
 .nav__btns {
@@ -895,4 +895,9 @@ nav {
   .deals__card {
     padding: 1.5rem;
   }
+}
+#heart{
+    font-size: 1.2rem;
+    color: red;
+    width:100%;
 }
